@@ -1,0 +1,1 @@
+let amor=document.getElementById("repo");
